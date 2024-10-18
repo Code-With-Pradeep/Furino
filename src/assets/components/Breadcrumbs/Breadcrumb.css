@@ -1,0 +1,32 @@
+.breadcrumbs-box {
+    background-size: 101% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px 0px;
+    text-align: center;
+}
+.breadcrumbs{
+    position: relative;
+    padding-left: 20px;
+}
+.bread-tabs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.bread-icon {
+    position: absolute;
+    font-size: 17px;
+    top: 3px;
+    left: 0;
+}
+.breadcrumbs-box h1 {
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-bottom: 8px;
+}
+a.home-tab {
+    font-weight: 500;
+}

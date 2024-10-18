@@ -1,0 +1,7 @@
+.grid-image{
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+.grid-image img{
+    width: 105%;
+}
